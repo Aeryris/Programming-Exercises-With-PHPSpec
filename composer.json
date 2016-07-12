@@ -1,0 +1,17 @@
+{
+    "name": "pixot/programming-katas",
+    "description": "Programming Katas",
+    "authors": [
+        {
+            "name": "Bartek Kliszczyk",
+            "email": "bart@pixot.io"
+        }
+    ],
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {"psr-0": {"": "src"}}
+}
